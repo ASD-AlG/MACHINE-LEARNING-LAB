@@ -1,3 +1,4 @@
+# MACHINE_LEARNING_LAB
 machine learning lab work 
 student: Ahmed hussain Alghazwi
 Id: 2240002359
@@ -10,5 +11,3 @@ it contains the data of students (student id, attendance %, homework %, midterm 
 
 machine learning code in pytthon-code.py
 it will contain the regression modle
-
-methodology diagram: file:///C:/Users/ahmed/Downloads/methodology%20diagram.pdf
