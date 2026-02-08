@@ -1,7 +1,6 @@
 # MACHINE_LEARNING_LAB
 machine learning lab work 
 student: Ahmed hussain Alghazwi
-Id: 2240002359
 section: 6ms1
 
 the outcome of the lab will be a modle that can predict if a student is more likly to pass or fail according to thier attendance %, homework %, midterm score and study hours / week
